@@ -38,6 +38,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+First I started with the estructure doing the HTML, then I did the css file to make the style as close as possible to the screenshot.
+
+
+
 ### Built with
 
 - Semantic HTML5 markup
