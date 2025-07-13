@@ -40,6 +40,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 First I started with the estructure doing the HTML, then I did the css file to make the style as close as possible to the screenshot.
 
+Making some div classes to try and find how to make the layout as close as possible to the preview. 
+
+Finding out that when you make a div class, all the elements you use like h1, p, etc... You can add style to that by specifing using, for example, if the div class is named qr in my case, you just do .qr h1, and in brackets add the style you want it to have. Pretty useful.
 
 
 ### Built with
@@ -60,6 +63,8 @@ First I started with the estructure doing the HTML, then I did the css file to m
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 To see how you can add code snippets, see below:
+
+Using div classes to add style to everything easier and trying to make work the fonts of google.
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
